@@ -1,94 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE HTML>
-<html>
-<head>
-	<meta charset="utf-8">
-	<title>Ozzie Gooen</title>
-	<meta name="author" content="Ozzie Gooen">
+  <title><![CDATA[Ozzie Gooen]]></title>
+  <link href="http://OAGr.github.io/atom.xml" rel="self"/>
+  <link href="http://OAGr.github.io/"/>
+  <updated>2013-09-16T23:34:29+01:00</updated>
+  <id>http://OAGr.github.io/</id>
+  <author>
+    <name><![CDATA[Ozzie Gooen]]></name>
+    <email><![CDATA[ozzie.gooen@80000hours.org]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-	
-	<meta name="description" content="You know all of those people hanging around during a discussion while 1-3 people debate something? I think they’re likely a sign that something is &hellip;">
-	
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-	<link href="/atom.xml" rel="alternate" title="Ozzie Gooen" type="application/atom+xml">
-	<link rel="canonical" href="">
-	<link href="/favicon.png" rel="shortcut icon">
-	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	<script async="true" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	
-</head>
-
-
-<body>
-	<header id="header" class="inner"><h1><a href="/">Ozzie Gooen</a></h1>
-<nav id="main-nav"><ul class="main">
-	<li><a href="/">Blog</a></li>
-	<li><a href="/blog/archives">Archives</a></li>
-</ul>
-</nav>
-<nav id="mobile-nav">
-	<div class="alignleft menu">
-		<a class="button">Menu</a>
-		<div class="container"><ul class="main">
-	<li><a href="/">Blog</a></li>
-	<li><a href="/blog/archives">Archives</a></li>
-</ul>
-</div>
-	</div>
-	<div class="alignright search">
-		<a class="button"></a>
-		<div class="container">
-			<form action="http://google.com/search" method="get">
-				<input type="text" name="q" results="0">
-				<input type="hidden" name="q" value="site:OAGr.github.io">
-			</form>
-		</div>
-	</div>
-</nav>
-<nav id="sub-nav" class="alignright">
-	<div class="social">
-		
-		
-		
-		<a class="twitter" href="http://twitter.com/ozziegooen" title="Twitter">Twitter</a>
-		
-		
-		<a class="github" href="https://github.com/oagr" title="GitHub">GitHub</a>
-		
-    
-		
-		
-		
-		
-		
-		<a class="rss" href="/atom.xml" title="RSS">RSS</a>
-		
-    
-	</div>
-	<form class="search" action="http://google.com/search" method="get">
-		<input class="alignright" type="text" name="q" results="0">
-		<input type="hidden" name="q" value="site:OAGr.github.io">
-	</form>
-</nav>
-
-</header>
-	
-		
-	
-	<div id="content" class="inner">
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/09/05/goal-factoring-quiet-meeting-attendees/">
-		
-			Goal Factoring: Silent Meeting Attendees</a>
-	</h2>
-	<div class="entry-content">
-		<p>You know all of those people hanging around during a discussion while 1-3 people debate something? I think they’re likely a sign that something is wrong. Let’s look at the benefits and costs of having non-speaking entities in a meeting or discussion. </p>
+  
+  <entry>
+    <title type="html"><![CDATA[Goal Factoring: Silent Meeting Attendees]]></title>
+    <link href="http://OAGr.github.io/blog/2013/09/05/goal-factoring-quiet-meeting-attendees/"/>
+    <updated>2013-09-05T00:00:00+01:00</updated>
+    <id>http://OAGr.github.io/blog/2013/09/05/goal-factoring-quiet-meeting-attendees</id>
+    <content type="html"><![CDATA[<p>You know all of those people hanging around during a discussion while 1-3 people debate something? I think they’re likely a sign that something is wrong. Let’s look at the benefits and costs of having non-speaking entities in a meeting or discussion. </p>
 
 <h2 id="possible-benefits">Possible Benefits:</h2>
 
@@ -114,40 +44,15 @@
 </ol>
 
 <p>That is all.  I encourage small meetings, and when discussions begin with a subset, either they agree to talk separately or it’s ok-ed for the others to leave.</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-09-05T00:00:00+01:00" pubdate data-updated="true">Sep 5<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/08/17/the-human-cost-of-meetings-and-group-events/">
-		
-			The Opportunity Cost of Events</a>
-	</h2>
-	<div class="entry-content">
-		<p><img src="/assets/posts/meeting.png" alt="Stakeholder" />  </p>
+  <entry>
+    <title type="html"><![CDATA[The Opportunity Cost of Events]]></title>
+    <link href="http://OAGr.github.io/blog/2013/08/17/the-human-cost-of-meetings-and-group-events/"/>
+    <updated>2013-08-17T00:00:00+01:00</updated>
+    <id>http://OAGr.github.io/blog/2013/08/17/the-human-cost-of-meetings-and-group-events</id>
+    <content type="html"><![CDATA[<p><img src="http://OAGr.github.io/assets/posts/meeting.png" alt="Stakeholder" />  </p>
 
 <p>For a while I’ve been considering the costs of putting together large numbers of people.  The cost scales roughly linearly, but sometimes it’s difficult to remember that.  Putting together a mediocre presentation for 3 people is almost exactly half as bad as putting together one for 6 people.  And when it’s for a few hundred, you should seriously be on top of your content. As a really simple demonstration, I’ve put together a small table.  The columns represent the hourly value of the average person in attendance.  The rows represent the number of people in attendance. The individual entries is the cost, per minute, of meeting time.  </p>
 
@@ -215,42 +120,17 @@
 
 <h2 id="lectures--presentations">Lectures &amp; Presentations</h2>
 
-<p><img src="/assets/posts/lecture.png" alt="lecture-hall" /><br />
+<p><img src="http://OAGr.github.io/assets/posts/lecture.png" alt="lecture-hall" /><br />
 If we value our student’s time at $40 per hour, then a 1-hour lecture with 200 students costs $8,000 of student’s time.  You could destroy a 50-inch TV or 1/4th that cost (maybe do it pieces throughout?)  At what point in the teacher’s preparation would the marginal benefit of them preparing more actually be less than that of the student’s time?  It would obviously be somewhere, but probably quite late, especially if material would be re-used later. This is one thing that makes <a href="http://en.wikipedia.org/wiki/Massive_open_online_course">MOOCs</a> so awesome.  With even a small optimization on traditional lecturers, the totaled value may be gigantic.  Lectures are something that deserve large optimization because they are incredibly expensive, the only issue is that the expenses aren’t obviously apparent nor are incurred on the parties responsible for them. Likewise, large public presentations should be optimized for similar reasons.  Not for the benefit of the presenter, but rather out of respect for the size of the audience.</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-08-17T00:00:00+01:00" pubdate data-updated="true">Aug 17<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/05/16/san-francisco-party-ideas-part-1/">
-		
-			San Francisco Party Ideas</a>
-	</h2>
-	<div class="entry-content">
-		<p>Because most Silicon Valley parties are stale and repetitive.</p>
+  <entry>
+    <title type="html"><![CDATA[San Francisco Party Ideas]]></title>
+    <link href="http://OAGr.github.io/blog/2013/05/16/san-francisco-party-ideas-part-1/"/>
+    <updated>2013-05-16T00:00:00+01:00</updated>
+    <id>http://OAGr.github.io/blog/2013/05/16/san-francisco-party-ideas-part-1</id>
+    <content type="html"><![CDATA[<p>Because most Silicon Valley parties are stale and repetitive.</p>
 
 <h2 id="the-nsa-party">The NSA Party!</h2>
 <p>By far the most secure party on this list.  Nothing will be stolen from anyone at this party, because all attendees and conversations will be recorded (on video and audio), and fully transcribed.  This information may or may not be “hacked”, making it available for everyone with an internet connection, several days post party completion.</p>
@@ -287,40 +167,15 @@ If we value our student’s time at $40 per hour, then a 1-hour lecture with 200
 
 <h2 id="the-global-warming-party">The Global Warming Party</h2>
 <p>The party takes place in a huge hall with blocks of ice instead of chairs and tables.  Heat will be on full, so the party will transition into a pool party, then a hot tub party.  During this time we’ll discuss the importance of issues like bank corruption and SOPA.  </p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-05-16T00:00:00+01:00" pubdate data-updated="true">May 16<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/05/11/the-time-devil-a-very-depressing-look-at-how-time-discounting-can-ruin-us/">
-		
-			The Time Devil: A Very Depressing Look at How Time Discounting Can Ruin Us</a>
-	</h2>
-	<div class="entry-content">
-		<blockquote>
+  <entry>
+    <title type="html"><![CDATA[The Time Devil: A Very Depressing Look at How Time Discounting can Ruin Us]]></title>
+    <link href="http://OAGr.github.io/blog/2013/05/11/the-time-devil-a-very-depressing-look-at-how-time-discounting-can-ruin-us/"/>
+    <updated>2013-05-11T00:00:00+01:00</updated>
+    <id>http://OAGr.github.io/blog/2013/05/11/the-time-devil-a-very-depressing-look-at-how-time-discounting-can-ruin-us</id>
+    <content type="html"><![CDATA[<blockquote>
   <p>This was originally my final research paper for The Economics of Technology and Growth class at Claremont Mckenna College.  Basically, what I am aiming to prove here is that technology can be harmful to us mainly because of our cognitive biases.  In this case I choose time discounting because it is well studied and known, but it is only one of several possible options.  I attempt to use mathematics and simulations to see just how much the technological results of our time discounting could be sub-optimal for us.  Feel free to download this on <a href="http://www.academia.edu/3508481/Devil_of_Discounting">Academica.edu</a>, or download the <a href="http://bowlabs.files.wordpress.com/2013/05/devil-of-discounting.pdf">PDF</a> or <a href="http://bowlabs.files.wordpress.com/2013/05/devil-of-discounting-1.docx">Word</a> document.  This work is all now under Creative Commons Attribution License.  Enjoy.    </p>
 </blockquote>
 
@@ -560,40 +415,15 @@ The individual can be modeled to have a decision function, D, which is used to d
 
 <h2 id="license">License</h2>
 <p>This work is under the <a href="https://creativecommons.org/licenses/by/3.0/">Creative Attributions License</a>.  This means you can do whatever you like with it, just cite me somewhere.</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-05-11T00:00:00+01:00" pubdate data-updated="true">May 11<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/05/10/morality-on-flaky-foundations/">
-		
-			Morality Is Still on Very Flaky Foundations</a>
-	</h2>
-	<div class="entry-content">
-		<blockquote>
+  <entry>
+    <title type="html"><![CDATA[Morality is Still on Very Flaky Foundations]]></title>
+    <link href="http://OAGr.github.io/blog/2013/05/10/morality-on-flaky-foundations/"/>
+    <updated>2013-05-10T00:00:00+01:00</updated>
+    <id>http://OAGr.github.io/blog/2013/05/10/morality-on-flaky-foundations</id>
+    <content type="html"><![CDATA[<blockquote>
   <p>This was a post I wrote several months ago in response to what I knew about effective altruism movement in the Bay area.  I now have met other EA communites and am more uncertain.  However, I believe it still raises some interesting points and could be useful to others.  </p>
 </blockquote>
 
@@ -671,40 +501,15 @@ The individual can be modeled to have a decision function, D, which is used to d
 <p>I believe that really finding a rational ends that we can agree upon will take quite a bit of change to our own intuitions   It may just be a matter of time, like it was to get reduce other limitions (nationalism, sexism, racism, etc).  Of course, the issue is that the time required may be longer than available before apocalyptic / world changing event, so it is quite likely this will never be settled.</p>
 
 <p>I do believe that this should be figured out and discussed much more rigorously.  Because from what I’ve seen, many of <strong><em>the most important</em></strong> moral issues are still surrounded by relatively emotional and intutive debate.  And for us being “rationality nerds”, this is quite a huge deal.</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-05-10T00:00:00+01:00" pubdate data-updated="true">May 10<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/05/07/plotting-capability-vs-ambition/">
-		
-			Plotting Capability vs. Ambition</a>
-	</h2>
-	<div class="entry-content">
-		<p>When I was in school (up to college), I was often frustrated by a lack of ambition in students around me.  The main problem in my area, to me, was a lack of ambition.  Surely, all these people could have much more awesome and useful lives if they strived for more? Of course, others see the world as a place of too much ambition, something that I see here in San Francisco.  Many entrepreneurs have hopes that are unbelievably and unrealistically high, and it’s quite apparent that they will eventually get let down.  Also of note are the yuppies who may always hope to gain 30% more income.  Here the issue is perhaps over-ambition and eventual disappointment. </p>
+  <entry>
+    <title type="html"><![CDATA[Plotting Capability Vs. Ambition]]></title>
+    <link href="http://OAGr.github.io/blog/2013/05/07/plotting-capability-vs-ambition/"/>
+    <updated>2013-05-07T00:00:00+01:00</updated>
+    <id>http://OAGr.github.io/blog/2013/05/07/plotting-capability-vs-ambition</id>
+    <content type="html"><![CDATA[<p>When I was in school (up to college), I was often frustrated by a lack of ambition in students around me.  The main problem in my area, to me, was a lack of ambition.  Surely, all these people could have much more awesome and useful lives if they strived for more? Of course, others see the world as a place of too much ambition, something that I see here in San Francisco.  Many entrepreneurs have hopes that are unbelievably and unrealistically high, and it’s quite apparent that they will eventually get let down.  Also of note are the yuppies who may always hope to gain 30% more income.  Here the issue is perhaps over-ambition and eventual disappointment. </p>
 
 <p><a href="http://bowlabs.files.wordpress.com/2013/05/intro.png"> <img src="http://bowlabs.files.wordpress.com/2013/05/intro.png" alt="Basic Capability vs. Ambition Graph" /> </a>  </p>
 
@@ -729,40 +534,15 @@ The individual can be modeled to have a decision function, D, which is used to d
 <p><a href="http://bowlabs.files.wordpress.com/2013/05/losses.png"> <img src="http://bowlabs.files.wordpress.com/2013/05/losses.png" alt="losses" /> </a> </p>
 
 <p>On the other hand, I imagine that with regards to helping the world (utility maximization), people aren’t nearly as ambitious as they have the capability to achieve.  A possible plot is above. That’s all I have for now.  There’s definitely a lot more that can be done here.  My guess is that it wouldn’t be too difficult to actually make some of these graphs.  Of course, knowing exactly how capable someone is is impossible, so for it to be realistic it should all be statistical, but I think these first iterations help show the basic points.</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-05-07T00:00:00+01:00" pubdate data-updated="true">May 7<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/05/03/dont-bash-entrepreneurs-for-not-being-ambitious-enough/">
-		
-			Don&#8217;t Bash Entrepreneurs for Not Being Ambitious Enough</a>
-	</h2>
-	<div class="entry-content">
-		<p>Seriously, please stop bashing entrepreneurs for not being ambitious enough.  It’s like bashing nonprofit workers for not working hard enough to help people in need.  </p>
+  <entry>
+    <title type="html"><![CDATA[Don't Bash Entrepreneurs for Not Being Ambitious Enough]]></title>
+    <link href="http://OAGr.github.io/blog/2013/05/03/dont-bash-entrepreneurs-for-not-being-ambitious-enough/"/>
+    <updated>2013-05-03T00:00:00+01:00</updated>
+    <id>http://OAGr.github.io/blog/2013/05/03/dont-bash-entrepreneurs-for-not-being-ambitious-enough</id>
+    <content type="html"><![CDATA[<p>Seriously, please stop bashing entrepreneurs for not being ambitious enough.  It’s like bashing nonprofit workers for not working hard enough to help people in need.  </p>
 
 <p><img src="http://bowlabs.files.wordpress.com/2013/05/5685441530_5136658664_b.jpg?w=922" alt="Hackers, Clearly Not Being Very Ambitious" /> ](http://bowlabs.files.wordpress.com/2013/05/5685441530_5136658664_b.jpg) “If only these people were more ambitious, then our economy would be doing well.” ( <a href="https://secure.flickr.com/photos/hackny/5685441530/in/photostream/">photo</a> by Elena Oliva)[/caption] </p>
 
@@ -784,40 +564,15 @@ The individual can be modeled to have a decision function, D, which is used to d
   <li><strong>Most people think ambition is crazy.</strong><br />
  While an interestingly vocal group of so-called intellectuals wonder upon the lack of idealism in the tech sector, the vast majority of people who witness it dismiss it and often actively discourage it.  I bet many of these exact intellectuals have completely rejected or dismissed emails from people with incredibly ambitious hopes and claims.  These requests often sound delusional.  Consider an email that states “I’m making something that will replace email!” or similar.  It’s probably a very thin line actually between claims that are considered too uninteresting to pay attention to, and those that are too ambitious to be sane for most people. Both sides are very noisy.   The success of “non-ambitious” startups over “ambitious” ones isn’t personal, it’s systematic, like most issues people argue over.  Also, the moral shortcomings of entrepreneurs are significant, but not necessarily different from the moral shortcomings of everyone else.    </li>
 </ol>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-05-03T00:00:00+01:00" pubdate data-updated="true">May 3<span>rd</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/04/30/how-to-tell-if-a-web-company-is-evil/">
-		
-			How to Tell if a Web Company Is Evil</a>
-	</h2>
-	<div class="entry-content">
-		<p>I’m sick of companies cherry picking specific features to explain how they help people.  Specific features will always exist, and the existence of them ruins the point.  The big question is, is it really the purpose of the company to help people, or is helping people an occasional externality of other goals they are trying to achieve?  It’s hard to give someone credit for a positive action that was done for a malicious or unrelated purpose.<br />
+  <entry>
+    <title type="html"><![CDATA[How to Tell if a Web Company is Evil]]></title>
+    <link href="http://OAGr.github.io/blog/2013/04/30/how-to-tell-if-a-web-company-is-evil/"/>
+    <updated>2013-04-30T00:00:00+01:00</updated>
+    <id>http://OAGr.github.io/blog/2013/04/30/how-to-tell-if-a-web-company-is-evil</id>
+    <content type="html"><![CDATA[<p>I’m sick of companies cherry picking specific features to explain how they help people.  Specific features will always exist, and the existence of them ruins the point.  The big question is, is it really the purpose of the company to help people, or is helping people an occasional externality of other goals they are trying to achieve?  It’s hard to give someone credit for a positive action that was done for a malicious or unrelated purpose.<br />
 <a href="http://bowlabs.files.wordpress.com/2013/04/basic.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/basic.png?w=590" alt="Altruistic vs. Power Ven Diagram" title="Altruistic vs. Power Ven Diagram" /> </a></p>
 
 <p>Here’s an Altruism/Power Ven Diagram.  On the left are decisions a company makes to help people, on the right are decisions that give them power.  Figuring out the intentions of a company may have little to do with how much they are helping people, because that intersection may be quite large.  The bigger question is how they pay attention to the other parts of the diagram.</p>
@@ -844,40 +599,15 @@ Web Application Altruism/Power Diagram</p>
 <p><a href="http://bowlabs.files.wordpress.com/2013/04/ideal.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/ideal.png?w=300" alt="The economic near-ideal" /> </a>  </p>
 
 <p>Here companies aren’t defined by how good they are trying to be, but by how much their selfish actions are correlated with altruistic ones.  Here the decision is much more about deciding what kind of company to make (and for outsiders, deciding rules and publicity), then deciding what features to implement.  Yet it also may mean that the more altruistic people will favor industries where this correlation is high, leaving other industries as easy prey for less idealistic people.</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-04-30T00:00:00+01:00" pubdate data-updated="true">Apr 30<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/04/30/feedhaven-ecosystem/">
-		
-			Designing the Feedhaven Ecosystem</a>
-	</h2>
-	<div class="entry-content">
-		<p><a href="http://bowlabs.files.wordpress.com/2013/04/screen-shot-2013-04-29-at-11-02-44-pm.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/screen-shot-2013-04-29-at-11-02-44-pm.png?w=922" alt="Feedhaven Diagram 1.0" /> </a>  </p>
+  <entry>
+    <title type="html"><![CDATA[Designing the Feedhaven Ecosystem]]></title>
+    <link href="http://OAGr.github.io/blog/2013/04/30/feedhaven-ecosystem/"/>
+    <updated>2013-04-30T00:00:00+01:00</updated>
+    <id>http://OAGr.github.io/blog/2013/04/30/feedhaven-ecosystem</id>
+    <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/04/screen-shot-2013-04-29-at-11-02-44-pm.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/screen-shot-2013-04-29-at-11-02-44-pm.png?w=922" alt="Feedhaven Diagram 1.0" /> </a>  </p>
 
 <p>We’ve been working a lot recently to figure out what the <a href="http://feedhaven.org/">Feedhaven</a> system should look like.  Right now it’s relatively simple, but to properly work in an ecosystem of applications it would need some additional complexities. </p>
 
@@ -898,40 +628,15 @@ Web Application Altruism/Power Diagram</p>
 
 <p><strong>Future Development</strong><br />
   Of course, the system still needs to be built. The idea is that ecosystem would be fully modular so each part could be built independently based on well defined interfaces.  However, this will take a lot of trial and error as the interfaces are changed based on the workings of the components.  Updates will come at this blog.</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-04-30T00:00:00+01:00" pubdate data-updated="true">Apr 30<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/04/28/consumer-fishtraps/">
-		
-			Consumer Fishtraps</a>
-	</h2>
-	<div class="entry-content">
-		<p><a href="http://bowlabs.files.wordpress.com/2013/04/121378.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/04/121378.jpg?w=487" alt="Image" /> </a></p>
+  <entry>
+    <title type="html"><![CDATA[Consumer Fishtraps]]></title>
+    <link href="http://OAGr.github.io/blog/2013/04/28/consumer-fishtraps/"/>
+    <updated>2013-04-28T00:00:00+01:00</updated>
+    <id>http://OAGr.github.io/blog/2013/04/28/consumer-fishtraps</id>
+    <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/04/121378.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/04/121378.jpg?w=487" alt="Image" /> </a></p>
 
 <p>Fishtraps are devices that are easy to enter and difficult or impossible to exit from.  Many products and web apps work the same way. One example may be the <a href="http://www.freecreditreport.com/">monthly service </a>that requires a short website to sign up to but a very long phone call process to stop.  Web services can do similar by making it really simple to sign up and start adding information, but almost impossible to export your data once you use the service. Companies spend a lot of time and effort optimizing their entrences.  There are <a href="http://www.amazon.com/s/ref=nb_sb_ss_i_0_14?url=search-alias%3Daps&amp;field-keywords=landing%20page%20optimization&amp;sprefix=landing+page+o%2Caps%2C213&amp;rh=i%3Aaps%2Ck%3Alanding%20page%20optimization">several books</a> on Landing Page Optimization / SEO / AB testing on acquiring users.  There’s basically nothing on how to allow users to gracefully leave. Easy web exiting capabilities for consumers would mean data (and permissions and API) interoperability which would mean open standards.  This is one big reason why open standards are important.  But open web standards over the last 10 years have been very rough and frustrating, much because of a reluctance of companies to allow their users to easily leave their platforms.   </p>
 
@@ -944,40 +649,15 @@ Web Application Altruism/Power Diagram</p>
 
 <h2 id="solutions">Solutions</h2>
 <p>The only existing protection against this seem to be the <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">EU’s legal action</a> and occasionally consumer sentiment. Hypothetically, it could be possible for a browser extension to warn users about lock-in on visits to website sign-up pages.  If enough people used these or did some research, it could be possible that companies would take notice and respond accordingly.  We really just need people to care. In the mean time, just realize.  When you are on these platforms, you are essentially in a fish trap.  Leaving may technically be feasible, but it’s made to be near impossible.   For more info on “evil web design” I recommend checking out “ <a href="http://ofps.oreilly.com/titles/9781118422144/index.html">Evil By Design</a>” by Chriss Nodder.The <a href="http://ofps.oreilly.com/titles/9781118422144/sloth.html">Sloth section</a> goes into detail in what I am calling the fishtrap.</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-04-28T00:00:00+01:00" pubdate data-updated="true">Apr 28<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/04/27/an-information-availability-graph/">
-		
-			An Information Availability Graph</a>
-	</h2>
-	<div class="entry-content">
-		<p>Recently I’ve been thinking about the economics of sharing person information.   I get the sense that one reason why social networks are so important is because they allow you to share much more information than you would be otherwise.  In general, people seem to think that this a good thing, and I think that these following diagrams may help explain why.   By looking at information sharing in an economic way it may be easier to understand the existing inefficiencies of the “market” and some theoretical reasons for the emergence of social networks and group privacy settings within them.  </p>
+  <entry>
+    <title type="html"><![CDATA[An Information Availability Graph]]></title>
+    <link href="http://OAGr.github.io/blog/2013/04/27/an-information-availability-graph/"/>
+    <updated>2013-04-27T00:00:00+01:00</updated>
+    <id>http://OAGr.github.io/blog/2013/04/27/an-information-availability-graph</id>
+    <content type="html"><![CDATA[<p>Recently I’ve been thinking about the economics of sharing person information.   I get the sense that one reason why social networks are so important is because they allow you to share much more information than you would be otherwise.  In general, people seem to think that this a good thing, and I think that these following diagrams may help explain why.   By looking at information sharing in an economic way it may be easier to understand the existing inefficiencies of the “market” and some theoretical reasons for the emergence of social networks and group privacy settings within them.  </p>
 
 <p><a href="http://raiseforgoodapp.files.wordpress.com/2013/04/1.png"> <img src="http://raiseforgoodapp.files.wordpress.com/2013/04/1.png" alt="A person has the most information about themselves available (typically). A much smaller subset of information is available to the public." /> </a>  </p>
 
@@ -1017,40 +697,15 @@ Web Application Altruism/Power Diagram</p>
 
 <h2 id="conclusion">Conclusion</h2>
 <p>In conclusion, I think this may present an interesting model from which to build on.  It would be very interesting to make this quantitative, but realize that it would be very complicated.  Similar models could be made for businesses, organizations, etc.  This also doesn’t discuss what other people want to see; only what you are willing to show them. One of my goals with Feedhaven is to minimize both of these inefficiencies. Hypothetically, all of the information available to you (no matter the app) could have one generalized retrieval system.  In addition, one could imagine systems whereby it were incredibly simple and elegant to split up friends into tiny groups and to edit settings for each one.</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-04-27T00:00:00+01:00" pubdate data-updated="true">Apr 27<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/03/26/what-value-should-mean/">
-		
-			What &#8216;Value&#8217; Should Mean</a>
-	</h2>
-	<div class="entry-content">
-		<p>I would begin this post by stating that ‘value’ is one of the most mis-interpreted words in this era, except for the abysmally poor interpretation of all words, ever.  </p>
+  <entry>
+    <title type="html"><![CDATA[What 'value' should mean]]></title>
+    <link href="http://OAGr.github.io/blog/2013/03/26/what-value-should-mean/"/>
+    <updated>2013-03-26T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/03/26/what-value-should-mean</id>
+    <content type="html"><![CDATA[<p>I would begin this post by stating that ‘value’ is one of the most mis-interpreted words in this era, except for the abysmally poor interpretation of all words, ever.  </p>
 
 <p>The fact is that ‘values’ are really important if you define them correctly.  I think that most versions of the term are bit wrong, so I’ll try to give my shot at what a “value” is. </p>
 
@@ -1080,40 +735,15 @@ Web Application Altruism/Power Diagram</p>
 
 <p>This is a really messy subject.  I’ll come back to it later.  Most of the interesting work may come in future posts, but I wanted to define this a bit.</p>
 
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-03-26T00:00:00+00:00" pubdate data-updated="true">Mar 26<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/03/13/the-internet-is-real-life/">
-		
-			The Internet Is &#8220;Real Life&#8221;</a>
-	</h2>
-	<div class="entry-content">
-		<p>The idea that the physical world some of us normally live in is “real” in any objective or absolute sense is a bit out of date and silly.  It seems like there’s a decent chance we may be in a <a href="http://news.discovery.com/space/are-we-living-in-a-computer-simulation-2-121216.htm">simulation</a>, and likely a greater chance we’re “in” something we couldn’t understand or comprehend if we were to find evidence for it.</p>
+  <entry>
+    <title type="html"><![CDATA[The Internet is "Real Life"]]></title>
+    <link href="http://OAGr.github.io/blog/2013/03/13/the-internet-is-real-life/"/>
+    <updated>2013-03-13T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/03/13/the-internet-is-real-life</id>
+    <content type="html"><![CDATA[<p>The idea that the physical world some of us normally live in is “real” in any objective or absolute sense is a bit out of date and silly.  It seems like there’s a decent chance we may be in a <a href="http://news.discovery.com/space/are-we-living-in-a-computer-simulation-2-121216.htm">simulation</a>, and likely a greater chance we’re “in” something we couldn’t understand or comprehend if we were to find evidence for it.</p>
 
 <p><a href="http://bowlabs.files.wordpress.com/2013/03/avatar.jpeg"> <img src="http://bowlabs.files.wordpress.com/2013/03/avatar.jpeg?w=249" alt="Image" /> </a></p>
 
@@ -1132,46 +762,21 @@ Web Application Altruism/Power Diagram</p>
 </blockquote>
 
 <div class="video-container">
-	<iframe width="853" height="480" src="//www.youtube.com/embed/n-M4kPxd03k" frameborder="0" allowfullscreen=""></iframe>      
+	<iframe width="853" height="480" src="http://OAGr.github.io//www.youtube.com/embed/n-M4kPxd03k" frameborder="0" allowfullscreen=""></iframe>      
 </div>
 <p><br /></p>
 
 <p>Note: A few weeks after writing this post I read more into <a href="http://watch.tpbafk.tv/">“Away from Keyboard”</a>, which I think is an appropriate term.  However, I prefer “meatspace”.</p>
 
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-03-13T00:00:00+00:00" pubdate data-updated="true">Mar 13<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/03/13/bringing-all-things-down-to-wikipedias-level/">
-		
-			Bringing All Things Down to Wikipedia&#8217;s Level</a>
-	</h2>
-	<div class="entry-content">
-		<p><img src="/assets/posts/wikipedia.png" alt="wikipedia" />
+  <entry>
+    <title type="html"><![CDATA[Bringing all things down to Wikipedia's level]]></title>
+    <link href="http://OAGr.github.io/blog/2013/03/13/bringing-all-things-down-to-wikipedias-level/"/>
+    <updated>2013-03-13T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/03/13/bringing-all-things-down-to-wikipedias-level</id>
+    <content type="html"><![CDATA[<p><img src="http://OAGr.github.io/assets/posts/wikipedia.png" alt="wikipedia" />
 You’ve probably heard of several stories of people posting false information on Wikipedia.  It seems to be the number one type of story I hear about Wikipedia.  And these stories are used to explain why we shouldn’t be allowed to site Wikipedia or pay much attention to it as our primary source of knowledge.  </p>
 
 <p>The trouble with this thinking is that most people seem to pay less attention to the stories of poor academic writing, or news articles, or just about every other thing written in any language ever.  </p>
@@ -1183,80 +788,30 @@ You’ve probably heard of several stories of people posting false information o
 <p><strong>I think that people like to use Wikipedia as a scapegoat and shove it under a bus.  But the problem isn’t Wikipedia, the problem is the inherently biased nature of humanity and lack of care or infrastructure to address this.</strong> </p>
 
 <p>So I agree that Wikipedia is uncertain.  But it’s probably much better than what’s in my head currently about almost everything ever.  I think we need to just admit that most of what we know is very flawed and accept that all communicated and known information is imperfect, because it is.  Incredibly so.</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-03-13T00:00:00+00:00" pubdate data-updated="true">Mar 13<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/03/05/the-lean-blog-pos/">
-		
-			The Lean Blog Post</a>
-	</h2>
-	<div class="entry-content">
-		<p>It pains me to no avail that people consider blog posts as unique snapshots of time rather than pure information, similar to a personal wiki.  By this I mean that it is quite rare for bloggers to continually change their posts in significant ways long after publication.  Perhaps posts could have version numbers and history similar to wikipedia.  Rather than being time stamped, they would be somewhat timeless. Here’s one version of how I imagine that iteration should work on a blog.  </p>
+  <entry>
+    <title type="html"><![CDATA[The Lean Blog Post]]></title>
+    <link href="http://OAGr.github.io/blog/2013/03/05/the-lean-blog-pos/"/>
+    <updated>2013-03-05T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/03/05/the-lean-blog-pos</id>
+    <content type="html"><![CDATA[<p>It pains me to no avail that people consider blog posts as unique snapshots of time rather than pure information, similar to a personal wiki.  By this I mean that it is quite rare for bloggers to continually change their posts in significant ways long after publication.  Perhaps posts could have version numbers and history similar to wikipedia.  Rather than being time stamped, they would be somewhat timeless. Here’s one version of how I imagine that iteration should work on a blog.  </p>
 
 <p><a href="http://bowlabs.files.wordpress.com/2013/03/untitled-21.png"> <img src="http://bowlabs.files.wordpress.com/2013/03/untitled-21.png" alt="The Lean Blog Post method. I used cacoo to make this, sorry it's cut off. If anyone requests I'll make a nicer version :)" /> </a></p>
 
 <p>It’s really difficult to figure out what people will like in advance.  But it seems like viral hits happen really quickly, so few people expect to be able to change content mid-storm.  Thus they sometimes try to future-proof everything by making it better such that if/when it becomes viral, it will be ready and optimized for it.  </p>
 
 <p>But this means they write much less! This is one model that would be cool in the theory of long-term traffic, but definitely is not optimized for “viral storms”.  It’s a pity.</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-03-05T00:00:00+00:00" pubdate data-updated="true">Mar 5<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/03/04/digital-monopolies-and-dictatorship/">
-		
-			Digital Monopolies and Dictatorship</a>
-	</h2>
-	<div class="entry-content">
-		<p>Facebook may be colored blue because Mark Zuckerberg happened to be <a href="http://www.nybooks.com/articles/archives/2010/nov/25/generation-why/?pagination=false">red-green colorblind</a>.  Now over 1 billion people see a blue page for 5+ hours a month because of it.  This is one small and rather innocent example of what happens when one person gets incredible power, which the web enables in ways never really seen before.  </p>
+  <entry>
+    <title type="html"><![CDATA[Digital Monopolies and Dictatorship]]></title>
+    <link href="http://OAGr.github.io/blog/2013/03/04/digital-monopolies-and-dictatorship/"/>
+    <updated>2013-03-04T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/03/04/digital-monopolies-and-dictatorship</id>
+    <content type="html"><![CDATA[<p>Facebook may be colored blue because Mark Zuckerberg happened to be <a href="http://www.nybooks.com/articles/archives/2010/nov/25/generation-why/?pagination=false">red-green colorblind</a>.  Now over 1 billion people see a blue page for 5+ hours a month because of it.  This is one small and rather innocent example of what happens when one person gets incredible power, which the web enables in ways never really seen before.  </p>
 
 <p><a href="http://bowlabs.files.wordpress.com/2013/03/220px-ishihara_9.png"> <img src="http://bowlabs.files.wordpress.com/2013/03/220px-ishihara_9.png?w=210" alt="Image" title="Red-Green Colorblindness Test" /> </a><br />
 Red-Green colorblindness test </p>
@@ -1298,40 +853,15 @@ Mark doesn’t dress like this, but he may possess more power than almost all wh
 <p>Facebook even attempted Democracy, but did it poorly.  As in, worse than China or Iran poorly (though, to be fair, not with nearly as dire consequences so far).  They put their new data use policy and statement of rights up for vote with the general public.  350,000 users ended up voting, and 6/7th of them voted “no”.  Unfortunately Facebook required that 300 million+ people voted for quorum by the closing date, which obviously did not happen, so Facebook went ahead and made the changes anyway.  If something similar were to happen to a third world country we’d consider them completely corrupt and juvenile.  Here it happens to us and we don’t care to notice.  Read  <a href="http://arstechnica.com/business/2012/06/whopping-00038-of-facebook-users-vote-on-data-use-policy-change/">this</a> and <a href="http://www.buzzfeed.com/mtpiii/the-end-of-the-facebook-democracy">this</a> for more info. </p>
 
 <p>The bottom line is that now, millions of people have no say in a community they are all contributing to.  In fact, they  <a href="http://www.nbcwashington.com/the-scene/events/Facebook-Users-on-Verge-of-Mutiny-130288643.html">violently oppose</a> every single update Facebook gives them, but the one ruler doesn’t care.  Perhaps he shouldn’t.  But we need to do some careful considering of what power structures and governments we are willing to accept and promote.  We also should re-consider what democracy really is and how important it should be.  Things will only get more messy from here.  </p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-03-04T00:00:00+00:00" pubdate data-updated="true">Mar 4<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/02/28/awards-imply-false-certainty/">
-		
-			Awards Imply False Certainty</a>
-	</h2>
-	<div class="entry-content">
-		<p>In high school I got sick of most award systems.  Prizes were given like “best science student” or “2nd best musician” like “best” really meant something.  I also was questionable of whether the negative externalities created by these systems offset the positive benefit for the recipients and close friends, but I think the more pressing issue is the implied certainty. </p>
+  <entry>
+    <title type="html"><![CDATA[Awards imply false certainty]]></title>
+    <link href="http://OAGr.github.io/blog/2013/02/28/awards-imply-false-certainty/"/>
+    <updated>2013-02-28T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/02/28/awards-imply-false-certainty</id>
+    <content type="html"><![CDATA[<p>In high school I got sick of most award systems.  Prizes were given like “best science student” or “2nd best musician” like “best” really meant something.  I also was questionable of whether the negative externalities created by these systems offset the positive benefit for the recipients and close friends, but I think the more pressing issue is the implied certainty. </p>
 
 <p><a href="http://bowlabs.files.wordpress.com/2013/02/donc355.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/02/donc355.jpg" alt="obligatory average photograph of standard trophies" /> </a><br />
 Obligatory average photograph of standard trophies</p>
@@ -1351,40 +881,15 @@ Obligatory average photograph of standard trophies</p>
 <h2 id="my-counterplan">My CounterPlan</h2>
 
 <p>In high school I designed a small representation of this, in a “Seal of Perceived Excellence”.  I finally purchased a custom stamp in the beginning of college.  I considered it accurate on my homework, when I would spend a lot of time doing a job I thought was decent, but knowing I probably got some fundamental elements wrong and had little idea of how well I actually did.  While now I look back on it and find the design a bit childish, I still like the point and would later be interested in extending it elsewhere.  <a href="http://bowlabs.files.wordpress.com/2013/02/seal.jpeg"> <img src="http://bowlabs.files.wordpress.com/2013/02/seal.jpeg" alt="Ozzie Gooen Seal of Perceived Excellence" /> </a> Ozzie Gooen Seal of Perceived Excellence</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-02-28T00:00:00+00:00" pubdate data-updated="true">Feb 28<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/02/27/why-obsessives-hate-meetings/">
-		
-			Why Obsessives May Hate Scheduling Meetings</a>
-	</h2>
-	<div class="entry-content">
-		<p><a href="http://bowlabs.files.wordpress.com/2013/02/b1_north_hallway1.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/02/b1_north_hallway1.jpg" alt="Not Harvey Mudd, but close." /> </a></p>
+  <entry>
+    <title type="html"><![CDATA[Why obsessives may hate scheduling meetings]]></title>
+    <link href="http://OAGr.github.io/blog/2013/02/27/why-obsessives-hate-meetings/"/>
+    <updated>2013-02-27T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/02/27/why-obsessives-hate-meetings</id>
+    <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/02/b1_north_hallway1.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/02/b1_north_hallway1.jpg" alt="Not Harvey Mudd, but close." /> </a></p>
 
 <p>I remember at <a href="http://www.hmc.edu/">Harvey Mudd College</a> I would often be really interested in really specific technical topics and go through great difficulties to talk to anyone about them, especially the professors.  Many of the engineering professors would be out during all of the convenient times for me (after 5pm M-T, and most of Friday because most seemed to be out consulting).   Sure I could schedule meetings, but that didn’t feel right.  I wanted to walk in and start talking. </p>
 
@@ -1393,40 +898,15 @@ Obligatory average photograph of standard trophies</p>
 <p>Fortunately I’m living with 17 other smart people in <a href="http://risesf.com/">Rise SF</a>, which definitely is a plus.  But the location is restricting (Twin Peaks, SF) and I don’t interact routinely with large groups of people outside the house. Maybe this is one reason why <a href="http://en.wikipedia.org/wiki/Building_20">building 20</a> and similar tightly packed intelectual networks work so well.  Even if people <strong>can</strong> meet each other doesn’t mean it will be convenient; them being able to stop in at a whim may be significantly more efficient and productive.  This way they can discuss what they are interested in, in the moment they are interested in it.  </p>
 
 <p>More information on <a href="http://www.newyorker.com/reporting/2012/01/30/120130fa_fact_lehrer?currentPage=all">Building 20</a> here, toward the end.  It’s a fascinating read.</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-02-27T00:00:00+00:00" pubdate data-updated="true">Feb 27<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/02/26/24-hour-hackathon-creation/">
-		
-			Making a Really Confusing Hackathon in 24 Hours (#ifwehadglass)</a>
-	</h2>
-	<div class="entry-content">
-		<p><a href="http://www.google.com/glass/start/how-to-get-one/"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-3-17-00-pm1.png?w=922" alt="Google's #ifihadglass competition page" /> </a> Google’s <a href="http://www.google.com/glass/start/how-to-get-one/"> #ifihadglass </a></p>
+  <entry>
+    <title type="html"><![CDATA[Making a really confusing hackathon in 24 hours (#ifwehadglass)]]></title>
+    <link href="http://OAGr.github.io/blog/2013/02/26/24-hour-hackathon-creation/"/>
+    <updated>2013-02-26T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/02/26/24-hour-hackathon-creation</id>
+    <content type="html"><![CDATA[<p><a href="http://www.google.com/glass/start/how-to-get-one/"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-3-17-00-pm1.png?w=922" alt="Google's #ifihadglass competition page" /> </a> Google’s <a href="http://www.google.com/glass/start/how-to-get-one/"> #ifihadglass </a></p>
 
 <p>After Google’s #ifihadglass competition came out, I thought it might be fun to make some entrees, given our research at Harvey Mudd in wearable computing.  While I was put off by the $1500 price tag, Rahul pointed out that they would likely have an ebay value quite a bit over that, so I decided to go with it.  We came up with the idea of organizing a small hackathon to come up with entrees, and after me asking a few people on Facebook, decided to make it happen.  However, this was on Wednesday, and the only day fit for the Hackathon was Saturday (it ended the week after), so we didn’t have much time to make it happen. </p>
 
@@ -1442,90 +922,18 @@ Obligatory average photograph of standard trophies</p>
 <a href="http://news.ycombinator.com/submitted?id=ozziegooen"> <img src="http://bowlabs.files.wordpress.com/2013/02/hnews1.png?w=847" alt="Hacker News comments on #ifwehadglass" /> </a></p>
 
 <p>The last thing was to edit the website so that everyone could have their own page for their own entrees.  We made subdirectories for each entrant who signed up on Facebook.  Originally the plan was that each person would be able to access only their own folder.  However, we quickly realized that this would be a limitation.  First, it was impossible to share a folder from an app, so we had to switch from Site44 to one of <a href="https://twitter.com/Joevm3">Joe’s</a> many servers.  Then we realized that it’s impossible to share a folder with a few people, and share subfolders with other people.  So instead we just gave everyone access to everything.  In this case it’s fine, but you can imagine that it’s not a very scalable.  Come on, Dropbox! Some attempts were made at getting someone from Google to come with a Google Glass for the event, but they were made in vain.  Fortunately, the event was fun for the people who made it.            </p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-02-26T00:00:00+00:00" pubdate data-updated="true">Feb 26<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-
-    <article class="post">
-	<h2 class="title">
-		
-		<a href="/blog/2013/02/25/protect-yourself-from-the-oscars/">
-		
-			Protect Yourself From the Oscars (With a Browser Extension)</a>
-	</h2>
-	<div class="entry-content">
-		<p><a href="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-4-10-44-am.png"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-4-10-44-am.png?w=922" alt="CNN with celebrity and oscar censorship" /> </a> CNN with celebrity and oscar censorship</p>
+  <entry>
+    <title type="html"><![CDATA[Protect yourself from the Oscars (with a browser extension)]]></title>
+    <link href="http://OAGr.github.io/blog/2013/02/25/protect-yourself-from-the-oscars/"/>
+    <updated>2013-02-25T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/02/25/protect-yourself-from-the-oscars</id>
+    <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-4-10-44-am.png"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-4-10-44-am.png?w=922" alt="CNN with celebrity and oscar censorship" /> </a> CNN with celebrity and oscar censorship</p>
 
 <p>I’m sick of how the web and link bate distract me from time and value.  As a small bit of resistance, I’m writing a browser extension that finds all words related to celebrities and pop culture and gently whites them out for me.  In addition it vastly covers related pictures.  We’ll play around with it, and if it proves fun may release it on the chrome store or integrate it as an optional add-on to Raise. </p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-02-25T00:00:00+00:00" pubdate data-updated="true">Feb 25<span>th</span>, 2013</time></div>
-	
-</div>
-</article>
-
-<nav id="pagenavi">
-    
-    
-        <a href="/blog/page/2/" class="next">Next</a>
-    
-    <div class="center"><a href="/blog/archives">Blog Archives</a></div>
-</nav></div>
-	<footer id="footer" class="inner">Copyright &copy; 2013
-
-    Ozzie Gooen
-
-</footer>
-	<script src="/javascripts/slash.js"></script>
-<script src="/javascripts/jquery.fancybox.pack.js"></script>
-<script type="text/javascript">
-(function($){
-	$('.fancybox').fancybox();
-})(jQuery);
-</script> <!-- Delete or comment this line to disable Fancybox -->
-
-
-
-
-
-
-</body>
-</html>
+</feed>
